@@ -12,10 +12,11 @@ You can click the Preview link to take a look at your changes.
 <body>
   <h1>DAN PAGE </h1>
   <h3>Best Landing Page</h3>
-  <ol>
+  <ul>
     <li>Images</li>
     <li>Videos</li>
     <li>Messages</li>
     <li>Updates</li>
+    <ul/>
 
 </body>
