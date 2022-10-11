@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <p>DANIEL <strong> FLOREZ</strong></p>
 <body>
-<tile>DAN PAGE</title>
+  <p><tile>DAN PAGE</title></p>
 
 </body>
