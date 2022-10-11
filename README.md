@@ -18,6 +18,31 @@ You can click the Preview link to take a look at your changes.
     <li>Messages</li>
     <li>Updates</li>
     <ul/>
+<html>
 
+    <!-- Created with Pyto -->
+
+    <head>
+        <title>My page</title>
+    </head>
+    <body>
+        <p id="content"></p>
+        
+        <script type="text/python">
+            from htmpy import window
+            
+            Mi_Lista =['Bogota','Lima','Asuncion','Caracas']
+            
+            p = window.document.getElementById("content")
+            p.innerText = "Hello World!"
+        </script>
+    </body>
+</html>
+
+
+      
 </body>
 Mi_Lista['Bogota','Mexico','Lima','Asuncion']
+
+      
+      
