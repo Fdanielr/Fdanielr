@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <p>DANIEL <strong> FLOREZ</strong></p>
 <body>
-  <p><h1><tile>DAN PAGE </title></h1></p>
+  <p><h1>DAN PAGE </h1></p>
+  <p><h3>Best Landing Page</h3></p>
 
 </body>
