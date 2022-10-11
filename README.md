@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
   <h1>DAN PAGE </h1>
   <h3>Best Landing Page</h3>
   <ul>
-    <li><a href:"https://instagram.com/fdanielr7?igshid=YmMyMTA2M2Y=" >Images</a></li>
+    <li><a href:"https://instagram.com/fdanielr7" >Images</a></li>
     <li>Videos</li>
     <li>Messages</li>
     <li>Updates</li>
