@@ -20,3 +20,4 @@ You can click the Preview link to take a look at your changes.
     <ul/>
 
 </body>
+Mi_Lista['Bogota','Mexico','Lima','Asuncion']
